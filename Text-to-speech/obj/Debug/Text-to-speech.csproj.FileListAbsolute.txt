@@ -1,0 +1,59 @@
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\bin\Debug\Text-to-speech.exe.config
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\bin\Debug\Text-to-speech.exe
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\bin\Debug\Text-to-speech.pdb
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\obj\Debug\Text-to-speech.csprojResolveAssemblyReference.cache
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\obj\Debug\Text_to_speech.Form1.resources
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\obj\Debug\Text_to_speech.Properties.Resources.resources
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\obj\Debug\Text-to-speech.csproj.GenerateResource.Cache
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\obj\Debug\Text-to-speech.exe
+c:\users\xhttprequest\documents\visual studio 2013\Projects\Text-to-speech\Text-to-speech\obj\Debug\Text-to-speech.pdb
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\bin\Debug\Text-to-speech.exe.config
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\obj\Debug\Text-to-speech.exe
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\obj\Debug\Text-to-speech.pdb
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\bin\Debug\Text-to-speech.exe
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\bin\Debug\Text-to-speech.pdb
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\obj\Debug\Text-to-speech.csprojResolveAssemblyReference.cache
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\obj\Debug\Text_to_speech.Form1.resources
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\obj\Debug\Text_to_speech.Properties.Resources.resources
+C:\Users\Apache Http Server\Documents\Text-to-speech\Text-to-speech\obj\Debug\Text-to-speech.csproj.GenerateResource.Cache
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\bin\Debug\Text-to-speech.exe.config
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\obj\Debug\Text-to-speech.exe
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\obj\Debug\Text-to-speech.pdb
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\bin\Debug\Text-to-speech.exe
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\bin\Debug\Text-to-speech.pdb
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\obj\Debug\Text-to-speech.csprojResolveAssemblyReference.cache
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\obj\Debug\Text_to_speech.Form1.resources
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\obj\Debug\Text_to_speech.Properties.Resources.resources
+C:\Users\Apache Http Server\Documents\Text-to-speech - Combo\Text-to-speech\obj\Debug\Text-to-speech.csproj.GenerateResource.Cache
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\Text-to-speech.exe.config
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text-to-speech.exe
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text-to-speech.pdb
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\Text-to-speech.exe
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\Text-to-speech.pdb
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.Form1.resources
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.Properties.Resources.resources
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text-to-speech.csproj.GenerateResource.Cache
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\MetroFramework.dll
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\MaterialSkin.dll
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Oneide Adasísio\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\Text-to-speech.exe.config
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\Text-to-speech.exe
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\Text-to-speech.pdb
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text-to-speech.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.Form1.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.Properties.Resources.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text-to-speech.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text-to-speech.exe
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text-to-speech.pdb
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.Login.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.TelaPrincipal.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.CadastrarUsuario.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.ListarUsuario.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.Form2.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.Help.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.SobreDesenv.resources
+C:\Users\PC\Desktop\Text-to-speech - Combo-01\Text-to-speech\obj\Debug\Text_to_speech.SobreSoft.resources
